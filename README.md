@@ -1,0 +1,1 @@
+Iris classification project involves classifying iris flowers into three species based on features like sepal length, sepal width, petal length, and petal width.  we can achieve accurate species predictions. 🌺📊
